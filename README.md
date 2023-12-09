@@ -1,4 +1,4 @@
-# CH50 Python Tasks
+# CS50 Python Tasks
 
 ### Description
 This repository contains 50 Python tasks (CH50) ranging from basic to advanced levels.
